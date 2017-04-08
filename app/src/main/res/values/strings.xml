@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">casestudy</string>
+    <string name="input_your_project_name">input your project name</string>
+    <string name="input_your_comment">input your comment</string>
+    <string name="input_your_task_name">input your task name</string>
+    <string name="input_your_task_desc">input your task desc</string>
+
+</resources>
